@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Pencil Website"
@@ -8,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: index.qmd
+        text: yo yo
 
 format:
   html:
