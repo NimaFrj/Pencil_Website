@@ -2,7 +2,7 @@
 
 https://nimafrj.github.io/Pencil_Website/
 
-This is a Pen or Pencil classifier.
+[This is a Pen or Pencil classifier](https://nimafrj.github.io/Pencil_Website/pencil.html).
 
 It’s whole objective is to simply classify whether the input is the picture of a pen or a pencil.
 I’ve trained it with a simple resnet architecture and it was only trained with 30 pictures.
