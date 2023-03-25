@@ -2,6 +2,14 @@
 title: "Pencil Website"
 ---
 
-This is a Quarto website.
+**This is a [Pen or Pencil classifier](pencil.qmd).** <br><br>
+It's whole objective is to simply classify whether the input is the picture of a pen or a pencil. <br>
+I've trained it with a simple resnet architecture and it was only trained with 30 pictures. <br>
+So, don't expect it to be super accurate.
+I'll train it with more data later if I find it necessary! <br>
+I just wanted to create a project in production and wanted a simple classifier to begin with, and there was a pen and a pencil at my desk. So, I thought I should classify these as my first project.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+BTW, I created this website with Quarto websites, Have a look here:  <https://quarto.org/docs/websites>.
+<br>
+
+Here is the **[classifier](pencil.qmd)**.
